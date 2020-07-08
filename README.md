@@ -16,6 +16,6 @@ sudo make clean install
 
 I use some  personal scripts (https://github.com/BijnensBram/Scripts) so for the config of some other programs see https://github.com/BijnensBram/dotfiles
 
-I am also using a compton fork to get blur instead of opacity (https://github.com/tryone144/compton) 
-
 ## Screenshots 
+
+![](https://github.com/BijnensBram/dwmblocks/blob/master/screenshot1.png)
